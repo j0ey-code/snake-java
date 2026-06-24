@@ -1,0 +1,8 @@
+# Build output
+bin/
+out/snakepac/
+
+# Project files
+.idea/
+.settings/
+*.iml
